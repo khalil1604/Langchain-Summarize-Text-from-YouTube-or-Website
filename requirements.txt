@@ -1,0 +1,6 @@
+langchain==0.3.3
+langchain_community==0.3.2
+langchain_groq==0.2.0
+streamlit==1.38.0
+validators==0.34.0
+pytube==15.0.0
